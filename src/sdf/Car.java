@@ -20,10 +20,6 @@ public class Car{
     }
 
 
-
-
-
-
     // getters and setters
     public String getRegistration() {
         return registration;
